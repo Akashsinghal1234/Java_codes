@@ -6,5 +6,7 @@ public class Main {
         aloo.accept();
         aloo.displayResult();
         aloo.avgResult();
+
+        System.out.println("hello");
     }
 }
