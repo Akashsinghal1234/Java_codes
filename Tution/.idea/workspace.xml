@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a35d0ce-c4b6-4338-844f-2b9ba62c134a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Java_tut/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tut/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tut/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tut/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tut/Java_tut.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tut/out/production/Java_tut/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tut/out/production/Java_tut/first_code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tut/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tut/src/first_code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tution.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tution/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tution/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tution/classes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_practice_ques/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_practice_ques/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_practice_ques/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_practice_ques/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_practice_ques/_1_practice_ques.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_practice_ques/out/production/_1_practice_ques/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_practice_ques/out/production/_1_practice_ques/_first.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_practice_ques/out/production/_1_practice_ques/_five.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_practice_ques/out/production/_1_practice_ques/_second.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_practice_ques/out/production/_1_practice_ques/_third.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_practice_ques/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_practice_ques/src/_first.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_practice_ques/src/_five.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_practice_ques/src/_second.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_practice_ques/src/_third.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cbse_percent_cal/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cbse_percent_cal/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cbse_percent_cal/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cbse_percent_cal/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cbse_percent_cal/cbse_percent_cal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cbse_percent_cal/out/production/cbse_percent_cal/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cbse_percent_cal/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/class_questions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/out/production/class_questions/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/out/production/class_questions/akash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/out/production/class_questions/array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/out/production/class_questions/circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/out/production/class_questions/lab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/out/production/class_questions/objandclasses$1student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/out/production/class_questions/objandclasses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/out/production/class_questions/student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/src/akash.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/src/array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/src/lab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/src/objandclasses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_questions/src/student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_codes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_codes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_codes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_codes/first_codes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_codes/out/production/first_codes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_codes/out/production/first_codes/sum_of_numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_codes/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_codes/src/sum_of_numbers.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MwlwpL6LjBflcXER6992xvGqPX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Tution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a35d0ce-c4b6-4338-844f-2b9ba62c134a" name="Changes" comment="" />
+      <created>1678686766865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678686766865</updated>
+    </task>
+    <servers />
+  </component>
+</project>
