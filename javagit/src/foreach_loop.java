@@ -16,6 +16,9 @@ public class foreach_loop {
         animals.add("rat");
         animals.add("bird");
 
-        for(String i : animals) {
+        for (String i : animals) {
             System.out.println(i);
         }
+    }
+
+}
