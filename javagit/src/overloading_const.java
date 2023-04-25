@@ -1,5 +1,5 @@
 
-//********************************************************************************
+
 public class overloading_const {
 
     public static void main(String[] args) {
@@ -15,7 +15,7 @@ public class overloading_const {
 
     }
 }
-//********************************************************************************
+
 public class Pizza {
 
 

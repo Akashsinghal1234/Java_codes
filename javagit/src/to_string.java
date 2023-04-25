@@ -8,14 +8,14 @@ public class to_string {
         //    that returns a string that "textually represents" an object.
         //    can be used both implicitly and explicitly
 
-        Car car = new Car();
+        Car car1 = new Car();
 
 
-        System.out.println(car.toString());
+        System.out.println(car1.toString());
 
         // or
 
-        System.out.println(car);
+        System.out.println(car1);
 
 
     }
